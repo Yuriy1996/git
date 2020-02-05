@@ -1,3 +1,6 @@
 body {
 	background-color: rgba(44, 48, 53, 0.486);
 }
+p {
+	color: red;
+}
