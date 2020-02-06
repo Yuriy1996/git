@@ -1,0 +1,16 @@
+body {
+	width: 940px;
+	margin: 0 auto;
+}
+
+h1 {
+	color: red;
+}
+
+p {
+	line-height: 2;
+}
+
+div {
+	font-size: 30px;
+}
